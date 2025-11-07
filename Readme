@@ -1,0 +1,15 @@
+Este repo consistre en la exloración del modelo de regresión simbólica PHY-SO para el proyecto del curso EL4106 Inteligencia Computacional.
+
+Dejé un colab "MODELO_PHI_SO_REGRESION_SIMBOLICA_PROYECTO_EL4106_GODOY_BREHME.ipynb" que es el modelo el cual pudimos realizar la regresión simbólica con config0
+para el Benchamrk Nguyen. Lo únioc que hay que editar es el path de los datos, les dejo el drive para que puedan visualizar los datos Benchmark Nguyen para
+entrenamiento y para test. En ese mismo drive están los resultados (las funciones predichas y métricas). 
+
+https://drive.google.com/drive/folders/1yAgDCJwlZYfOYDHTwG4zOoBWcEiRtmq_?usp=sharing
+
+
+En este Google Drive (es el mismo de arriba pero lleva directamente a la carpeta) se pueden ver resultados del PhySo con config0. (Del F1 al F10)
+
+https://drive.google.com/drive/folders/1zm9WXGWuEK3OuOUzsevsMqPi9EftGwY1?usp=sharing
+
+
+En "PHYSO_Nusselt_FINAL.ipynb" está el modelo PHY-SO para predecir el número de Nusselt, dentro aparece la función predicha, gráfico Nu v/s Re , métricas.
